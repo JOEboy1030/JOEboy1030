@@ -1,4 +1,7 @@
 ## Hi there 👋
+### 📊 使用言語の割合
+
+![Top Langs](https://vercel.app)
 
 <!--
 **JOEboy1030/JOEboy1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
